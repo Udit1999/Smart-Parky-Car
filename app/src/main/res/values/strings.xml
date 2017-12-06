@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Smart Parky Car</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_place_picker">Map</string>
+</resources>
